@@ -17,7 +17,7 @@ shaString = []
 
 asciiString = []
 
-STRINGS_PATHS = ['ODgyMDA2MjI2Njg4ODgzMzM0MzRnZw=='.format(baseString,)
+STRINGS_PATHS = ['ODgyMDA2MjI2Njg4ODgzMzM0MzRnZw=='.format(baseString),
                  '43d244581aa23a744de9d775979165eb226a80e2cce6c0d0885412c9b6a0dbdf'.format(shaString),
                  '%3A%5E%5B%B4'.format(asciiString)]
 
