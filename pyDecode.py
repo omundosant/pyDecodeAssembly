@@ -75,15 +75,16 @@ def iniciar():
                for editL in base64:
                  try:
                  	EXTENSIONS = base64(sys_platform = '.vb', '.cs', '.il')
-                    lbIniciar = ("[>>] Iniciando decode no projeto Vb -> " + (FILE))
+                    vbIniciar = ("[>>] Iniciando decode no projeto Vb -> " + (FILE))
                break;
                for editL in shaString:
                  try:
                     EXTENSIONS = shaString(sys_platform = '.vb', '.cs', '.il')
-                    print(lbIniciar)
+                    csIniciar = ("[>>] Iniciando decode no projeto C-Sharp -> " + (FILE))
                break;
                for iditL in asciiString:
                     EXTENSIONS = asciiString(sys_platform = '.vb', '.cs', '.il')   
+                    ilIniciar = ("[>>] Iniciando decode no projeto ICL -> " + (FILE))
 
                 else:
                     lbError = ("[>>] Não foi possivel reconhecer a extensão" + sys.exit(1))    
