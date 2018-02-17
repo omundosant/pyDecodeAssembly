@@ -5,6 +5,7 @@ _VERSÃO BETA! bem simples!_
 
 <img src="https://image.prntscr.com/image/3syKLcXlQCeWK_98hMpfig.png">
 
+### Modo de usar:
 ```
 python pyDecode.py (ARQUIVO)
 ```
