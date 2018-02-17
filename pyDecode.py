@@ -24,7 +24,11 @@ STRINGS_PATHS = ['ODgyMDA2MjI2Njg4ODgzMzM0MzRnZw=='.format(baseString),
 def reflector():
 
       subprocess.call('cls', 'color 0f')
-
+      
+      parser = argparse.ArgumentParser(description='#pyReflector writting by @Sant')
+      parser.add_argument('--help', dest='accumulate', action='store_const' const=sum, help='Apenas use: python pyDecode.py ARQUIVO')
+      args = parser.parse_args()
+      
       try:
       	  INDEX = 0
           sys.platform(INDEX == 1):
