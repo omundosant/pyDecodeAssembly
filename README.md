@@ -8,5 +8,5 @@ _VERSÃO BETA! bem simples!_
 ```
 python pyDecode.py (ARQUIVO)
 ```
-#### Automaticamente o script vai identificar a extensão e vai descryptar 
-#### Obs: mantenha sempre seu python atualizado
+##### Automaticamente o script vai identificar a extensão e vai descryptar 
+##### Obs: mantenha sempre seu python atualizado
