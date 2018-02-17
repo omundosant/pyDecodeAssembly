@@ -84,7 +84,7 @@ def iniciar():
                break;
                for iditL in asciiString:
                     EXTENSIONS = asciiString(sys_platform = '.vb', '.cs', '.il')   
-                    ilIniciar = ("[>>] Iniciando decode no projeto ICL -> " + (FILE))
+                    ilIniciar = ("[>>] Iniciando decode no projeto IL -> " + (FILE))
 
                 else:
                     lbError = ("[>>] Não foi possivel reconhecer a extensão" + sys.exit(1))    
